@@ -14,6 +14,7 @@ var highScorers= [
   name: "Sonakshi",
   score: "3",
 },]
+
 var userName= readlineSync.question(chalk.bgBlack("What's you name? "));
 console.log(chalk.blue("Welcome " + userName + "! to --- DO YOU KNOW Darshil? ---QUIZ"));
 console.log("------")
